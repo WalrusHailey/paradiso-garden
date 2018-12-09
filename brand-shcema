@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+      {
+        "@context":"https://schema.org",
+        "@type":"Corporation",
+        "brand":"天堂花園",
+        "url":"https://www.paradiso-garden.com/",
+        "sameAs": [
+          "https://www.facebook.com/TianTangHuaYuanparadisoGarden",
+          "http://line.me/ti/p/@kae1138i"
+          //若天堂花園還有其他平台的帳號，例如：Youtube, IG，也可以補充上來。
+        ],
+        "logo":"https://www.paradiso-garden.com/images/common/logo.png",
+        //新網站上線後，Logo圖檔位置也會變化，需要再次確認這邊的網址正確性。
+        "contactPoint": [
+          { "@type": "ContactPoint",
+            "telephone": "+8860800-209-889",
+            "contactType": "customer service",
+            "contactOption": "TollFree",
+            "areaServed": "TW"
+          }
+        ]
+      }
+</script>
