@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "仙履蘭天堂奇蹟露 30ml", //這邊請寫產品名稱
+  "image": [
+    "https://www.paradiso-garden.com/data/product_image/2018/08/o_1clauaj0kp3u7r8kkslt6svrh.jpg"
+   ], //這邊請放產品圖片的網址
+  "description": "Paradiso奇蹟修護，肌膚修護彈潤一次到位，不可思議的天堂奇蹟奇蹟露，超低溫真空超音波冷萃,10000ppm高濃度珍貴蘭菁萃!知名雜誌報導不間斷，一瓶抵十瓶全效修復，大學生節目推薦，媲美專櫃精華液", 
+  //上面這邊請寫產品描述。
+  "brand": {
+    "@type": "Organization",
+    "name": "天堂花園"
+  },
+    "offers": {
+    "@type": "Offer",
+    "priceCurrency": "TWD",
+    "price": "1180",
+    "url": "https://garden.2ndhand.tw/item.html",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "天堂花園"
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "100"
+  } //這邊若有網友所做Review，建議可以放上來
+}
+</script>
